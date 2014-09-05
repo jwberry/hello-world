@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Why is it so hard to code? I think at the beginning it is difficult but once I get the basics down I can f shit up.
+This is a practice repo. I am learning how to you git and github. Please be gentle.
